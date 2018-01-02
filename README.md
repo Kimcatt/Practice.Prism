@@ -1,2 +1,2 @@
-# Prism.Practice
+# Practice.Prism
 Run toward Prism
